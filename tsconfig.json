@@ -7,6 +7,9 @@
         ],
         "sourceMap": true,
         "isolatedModules": true,
-        "module": "CommonJS"
+        "module": "CommonJS",
+        "types": [
+            "node"
+        ],
     }
 }
